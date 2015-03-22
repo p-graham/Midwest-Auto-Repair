@@ -1,0 +1,1 @@
+Website created for Midwest Auto Repair case study assignment. Allows authorized users to maintain mysql databases of customer and item information.
